@@ -1,0 +1,7 @@
+.bg-dark {
+  @apply bg-gray-900 text-white;
+}
+
+.bg-light {
+  @apply bg-white text-black;
+}
