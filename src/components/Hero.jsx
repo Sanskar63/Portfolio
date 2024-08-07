@@ -33,10 +33,10 @@ function Hero() {
 
   return (
     <section className="bg-white w-[100%] dark:bg-gray-800 h-[100vh] flex flex-col md:flex-row-reverse items-center justify-center overflow-hidden relative">
-      <div className={`w-[40%] `}>
+      <div className={`w-[55%] md:w-[40%] `}>
         <img
           src='/meCircle.png'
-          className='w-[97%] md:w-[80%] lg:w-[70%]'
+          className='w-[100%] md:w-[80%] lg:w-[70%]'
           alt="Profile picture of Harris Johnsen"
         />
         <div className="absolute top-0 right-0">
