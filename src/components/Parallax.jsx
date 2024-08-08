@@ -16,7 +16,7 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row '>
 
-        <div className='w-[100%] md:w-[40%] h-[30vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
+        <div className='w-[100%] md:w-[40%] h-[28vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>SupportiveSouls</span>
             <a href="https://supportivesouls.netlify.app/">
@@ -56,7 +56,7 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row  '>
 
-        <div className='w-[100%] md:w-[40%] h-[30vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
+        <div className='w-[100%] md:w-[40%] h-[28vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>IIITU Assist</span>
             <a href="https://college-site-sand.vercel.app/">
@@ -96,7 +96,7 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row '>
 
-        <div className='w-[100%] md:w-[40%] h-[30vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
+        <div className='w-[100%] md:w-[40%] h-[28vh] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>Music Academy</span>
             <a href="https://music-academy-sanskar.vercel.app/">

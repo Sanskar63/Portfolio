@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className='h-0'>
             {showNav && (
                 <div className='w-[100%] flex flex-row-reverse pr-2 md:pr-5 items-center bg-white dark:bg-gray-800 fixed top-0 left-0 z-50 nav-appear gap-2'>
-                    <img className='w-[10%] md:w-[8%] lg:w-[5%] ' src="/meCircle.png" alt="" />
+                    <img className='w-[12%] md:w-[8%] lg:w-[5%] ' src="/meCircle.png" alt="" />
                     <span className='font-mono text-xs md:text-sm lg:text-xl rounded-md text-gray-800 dark:text-white'>Sanskar</span>
 
                     <div className='fixed top-0 md:top-[1%] left-0'>
