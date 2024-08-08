@@ -25,7 +25,7 @@ const DarkModeToggle = () => {
       className="p-2 text-black dark:text-white rounded-full w-[10vw] md:[8vw] lg:w-[5vw]"
       onClick={toggleDarkMode}
     >
-      {darkMode ? <img src='/moon.svg' /> : <img src='sun.svg' />}
+      {darkMode ? <img src='/moon.svg' /> : <img className='w-8' src='sun.svg' />}
     </button>
   );
 };
