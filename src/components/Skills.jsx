@@ -32,7 +32,7 @@ const skills = [
   
 const Skills = () => {
   return (
-    <div className='w-[100%] flex flex-col items-center bg-white dark:bg-gray-800 gap-6 pt-[10vw] lg:pt-[7vw]'>
+    <div className='w-[100%] flex flex-col items-center bg-white dark:bg-gray-800 gap-6 '>
       <h1 className="font-archivo-black text-gray-800 dark:text-white text-xl md:text-2xl lg:text-3xl">Skills</h1>
       <div className={`w-[95%] md:w-[90%] flex flex-wrap justify-center gap-4 md:gap-6 lg:gap-8 p-4`}>
         {skills.map(skill => (

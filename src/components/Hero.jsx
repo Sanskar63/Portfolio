@@ -61,7 +61,7 @@ function Hero() {
           </a>
         </span>
         <p className={` mx-auto text-center w-[90%] md:w-[50%] text-gray-800 dark:text-white`}>
-          With a passion for developing modern React web apps for commercial
+          With a passion for developing modern Web apps for commercial
           businesses.
         </p>
         <a href='/cv.pdf' download className=" px-4 py-2 md:px-6 md:py-2 mt-2 text-sm  md:text-xl rounded-lg active:scale-[95%] text-white dark:text-gray-800 bg-gray-800 dark:bg-white text-center" >
