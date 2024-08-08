@@ -9,6 +9,7 @@ import AboutMe from './components/AboutMe';
 import Experience from './components/Experience';
 import Navbar from './components/Navbar';
 import ParallaxScroll from './components/Parallax';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -17,13 +18,14 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className='bg-white dark:bg-gray-800 flex flex-col gap-[10vw] lg:gap-[6vw]'>
+      <div className='bg-white dark:bg-gray-800 flex flex-col gap-[10vw] lg:gap-[6vw] pb-10'>
         <Hero />
         <AboutMe />
         <ParallaxScroll />
         {/* <Projects /> */}
         <Experience />
         <Skills />
+        <Footer />
       </div>
 
     </>
