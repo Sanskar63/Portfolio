@@ -15,7 +15,7 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row '>
 
-        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
+        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4'>
           <span className='text-sm md:text-xl text-gray-800 dark:text-white font-archivo-black'>01.</span>
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>SupportiveSouls</span>
@@ -24,9 +24,10 @@ const ParallaxScroll = () => {
             </a>
           </div>
           <span className='font-archivo-black text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Full Stack - UI Design</span>
+          <span className='italic text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Next.js, Typescript, React.js, MongoDB</span>
 
-          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>NGO web app with dedicated pages for showcasing initiatives and works. It have a Payment Portal for donation to NGO.</p>
-          <span className='font-mono text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Next.js, Typescript, React.js, MongoDB</span>
+          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>NGO web app with dedicated pages for showcasing initiatives and works.</p>
+          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>Integrated Razorpay payment gateway for seamless and secure donation processing.</p>
         </div>
 
         {/* Images Section */}
@@ -56,8 +57,8 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row  '>
 
-        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
-        <span className='text-sm md:text-xl text-gray-800 dark:text-white font-archivo-black'>02.</span>
+        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4'>
+          <span className='text-sm md:text-xl text-gray-800 dark:text-white font-archivo-black'>02.</span>
 
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>IIITU Assist</span>
@@ -67,9 +68,10 @@ const ParallaxScroll = () => {
           </div>
 
           <span className='font-archivo-black text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Full Stack - UI Design</span>
+          <span className='italic text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>React.js, MongoDB, Express.js, Node.js, Tailwind</span>
 
-          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>College Site for students with features like- Student Profile, News and Announcements, Application and Complaints and many more.</p>
-          <span className='font-mono text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>React.js, MongoDB, Express.js, Node.js, Tailwind</span>
+          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>Fostered a comprehensive college management system using the MERN stack, handling student profiles, feedback, and event management.</p>
+          <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>Applied features for course and hostel registration, enabling smooth semester transitions.</p>
         </div>
 
         <div className='w-[100%] md:w-[60%] flex flex-col'>
@@ -98,8 +100,8 @@ const ParallaxScroll = () => {
 
       <div className='w-[100%] flex flex-col md:flex-row '>
 
-        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4 lg:gap-6'>
-        <span className='text-sm md:text-xl text-gray-800 dark:text-white font-archivo-black'>03.</span>
+        <div className='w-[100%] md:w-[40%] pt-[7vh] md:pt-[0] pb-3 md:pb-0 md:h-[110vh] bg-white dark:bg-gray-800 sticky top-0 left-0 pl-[5%] flex flex-col justify-end md:justify-center gap-2 md:gap-4'>
+          <span className='text-sm md:text-xl text-gray-800 dark:text-white font-archivo-black'>03.</span>
 
           <div className='w-[100%] flex gap-3 md:gap-4 lg:gap-6'>
             <span className='font-archivo-black text-xl md:text-2xl lg:text-3xl text-gray-800 dark:text-white'>Music Academy</span>
@@ -109,9 +111,9 @@ const ParallaxScroll = () => {
           </div>
 
           <span className='font-archivo-black text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Front-End - UI Design</span>
+          <span className='italic text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Next.js, React.js</span>
 
           <p className='w-[95%] font-mono text-xs md:text-sm lg:text-xl text-justify text-gray-800 dark:text-white'>Music Website made using Next.js and React.js with AceternityUi.</p>
-          <span className='font-mono text-xs md:text-sm lg:text-xl text-gray-800 dark:text-white'>Next.js, React.js</span>
         </div>
         <div className=' w-[100%] md:w-[60%] flex flex-col'>
           <div className=' w-[100%] flex flex-col'>

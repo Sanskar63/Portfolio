@@ -64,7 +64,7 @@ function Hero() {
           With a passion for developing modern Web apps for commercial
           businesses.
         </p>
-        <a href='/cv.pdf' download className=" px-4 py-2 md:px-6 md:py-2 mt-2 text-sm  md:text-xl rounded-lg active:scale-[95%] text-white dark:text-gray-800 bg-gray-800 dark:bg-white text-center" >
+        <a href='/Resume.pdf' target="blank" className=" px-4 py-2 md:px-6 md:py-2 mt-2 text-sm  md:text-xl rounded-lg active:scale-[95%] text-white dark:text-gray-800 bg-gray-800 dark:bg-white text-center" >
           <button className="hover">Resume</button>
         </a>
       </div>

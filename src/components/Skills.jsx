@@ -18,6 +18,8 @@ const skills = [
     { label: 'Next.js', src: '/skills/nextjs.png' },
     { label: 'Git', src: '/skills/git.png' },
     { label: 'GitHub', src: '/skills/GitHub-logo.png' },
+    { label: 'Python', src: '/skills/python.png'},
+    { label: 'Django', src: '/skills/django.png'}
   ];
   
 

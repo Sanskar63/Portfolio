@@ -32,8 +32,8 @@ function App() {
             <div className='bg-white dark:bg-gray-800 flex flex-col gap-[10vw] lg:gap-[6vw] pb-10'>
                 <Hero />
                 <AboutMe />
-                <ParallaxScroll />
                 <Experience />
+                <ParallaxScroll />
                 <Skills />
                 <Footer />
                 <div ref={contactUsRef}>
