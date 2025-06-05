@@ -11,8 +11,8 @@ const Experience = () => {
       <div className='mb-8'>
         <div className='mb-4'>
           <div className='flex gap-3 items-center '>
-            <span className=' my-2 font-extralight italic md:text-xl text-gray-800 dark:text-white'>Full Stack Developer at Welo Info Service.</span>
-            <a target='blank' href="https://welt.care"><img className='w-7 md:w-10 hover:scale-[105%] cursor-pointer ' src="/link.png" alt="" /></a>
+            <span className=' my-2 font-extralight italic md:text-xl text-gray-800 dark:text-white'>Full Stack Developer at Welo Infosolutions pvt. ltd.</span>
+            <a target='blank' href="https://weltcare.in/"><img className='w-7 md:w-10 hover:scale-[105%] cursor-pointer ' src="/link.png" alt="" /></a>
           </div>
           <span className=' font-extralight italic text-sm md:text-base text-gray-800 dark:text-white'>Next.js, TypeScript, Python, Django, Django REST Framework.</span>
         </div>
