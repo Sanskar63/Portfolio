@@ -21,6 +21,12 @@ const Experience = () => {
           <img className='w-[300px] md:w-[350px] lg:w-[500px] rounded-lg shadow-lg' src="/Welt.png" alt="" />
           <div className='flex flex-col gap-2'>
             <span className='text-justify font-mono text-sm md:text-base lg:text-xl text-gray-800 dark:text-white'>
+              - Created entire business side with functionalities like- payment gateway, membership to business, transaction record  etc.
+            </span>
+            <span className='text-justify font-mono text-sm md:text-base lg:text-xl text-gray-800 dark:text-white'>
+              - Added functionalities like- automatic generation of multi use membership card and related works for customer.
+            </span>
+            <span className='text-justify font-mono text-sm md:text-base lg:text-xl text-gray-800 dark:text-white'>
               - Build Gym app, modified models and admin panel in Django backend, and resolved code issues to optimize functionality.
             </span>
             <span className='text-justify font-mono text-sm md:text-base lg:text-xl text-gray-800 dark:text-white'>
